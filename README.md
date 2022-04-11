@@ -2,4 +2,6 @@
 
 ## Benvindos ao meu livro :wave:
 
-- strogonoff
+- strogonoff de frango
+- Pavê
+- 
